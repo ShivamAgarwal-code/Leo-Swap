@@ -1,4 +1,4 @@
-# Leo
+# Leo Swap
 
 To connect DeFi values of open finance and Cyberpunk ideology of human right to Privacy.
 
