@@ -10,7 +10,7 @@ The second feature is cross-chain liquidity providing, which connects the values
 Together, these features enhance the capabilities of our DEX, providing users with a seamless, secure, and privacy-focused experience that combines the benefits of open finance and the principles of Cyberpunk ideology.
 
 # Dapp 
-https://LeoSwap-protocol.vercel.app/
+https://leo-swap.vercel.app/
 
 
 We where able to deploy our contracts into 3 EVM compatible network : 
