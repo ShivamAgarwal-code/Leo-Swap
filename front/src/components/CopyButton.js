@@ -8,7 +8,7 @@ export const CopyButton = (props) => {
     const copy = () => {
         copyToClipboard(props.data);
         setCopySuccess(true);
-        setTimeout(() => setCopySuccess(false), 2000); // Switch back to `copy` icon after 2 seconds.
+        setTimeout(() => setCopySuccess(false), 2000); // Switch back to `copy`
     }
 
     if (copySuccess) {
