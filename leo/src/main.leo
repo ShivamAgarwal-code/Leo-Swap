@@ -50,7 +50,7 @@ program atomic.aleo {
         info: SwapInfo,
     }
 
-    // Save swap info in public storage.
+    // Save swap info
     mapping swaps: field => SwapInfo;
     mapping starts: field => u32;
 
